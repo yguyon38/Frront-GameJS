@@ -1,2 +1,2 @@
-# Frront-GameJS
+# Front-GameJS
 Good Learning js Game..
